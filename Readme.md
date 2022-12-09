@@ -1,4 +1,4 @@
-# UKOS laboratoria - praca z repozytorium część 1
+# UKOS laboratoria - praca z repozytorium
 
 ## Wprowadzenie
 Na laboratoriach zaprezentowane zostaną krótkie zadania wprowadzające do tematyki pracy z repozytorium.
