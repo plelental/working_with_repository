@@ -1,8 +1,11 @@
 # UKOS laboratoria - praca z repozytorium część 1
 
 ## Wprowadzenie
+Na laboratoriach zaprezentowane zostaną krótkie zadania wprowadzające do tematyki pracy z repozytorium.
 
-Na tych laboratoriach zaprezentowane zostaną, krótkie zadania wprowadzające do tematyki pracy z repozytorium. Głównymi pojęciami oraz technikami, które zostaną omówione podczas zajęć są:
+## Część 1
+
+Głównymi pojęciami oraz technikami, które zostaną omówione podczas zajęć są:
 
 1. Rebase
 2. Force Push
