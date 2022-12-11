@@ -59,7 +59,7 @@ Code Review, jest aktem świadomego i systematycznego publikowania kodu do oceny
    3. Przydziel siebie w Assignies
    4. Przydziel label enhacement, jeśli go nie ma - stwórz nowy
    5. Zapisz issue klikając `Submit new issue`
-4. Sklonuj repozytorium na swoją lokalną maszyną
+4. Sklonuj repozytorium na swoją lokalną maszynę
 5. Odbranchuj się od brancha swojego zespołu. Twój nowy branch powinien byc nazwany zgodnie z danym schematem: `feature/<nazwa twojego zespolu>/<numer twojego issue>/<krotki opis twoich zmian>`
 6. Wykonaj zadanie ze swojego issue
 7. Wykonaj rebase swojego brancha z branchem swojego zespołu. W przypadku konfliktów, dodaj swój numer indeksu po przecinku
