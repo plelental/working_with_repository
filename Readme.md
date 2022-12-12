@@ -62,8 +62,8 @@ Code Review, jest aktem świadomego i systematycznego publikowania kodu do oceny
 4. Sklonuj repozytorium na swoją lokalną maszynę
 5. Odbranchuj się od brancha swojego zespołu. Twój nowy branch powinien byc nazwany zgodnie z danym schematem: `feature/<nazwa twojego zespolu>/<numer twojego issue>/<krotki opis twoich zmian>`
 6. Wykonaj zadanie ze swojego issue
-7. Wykonaj rebase swojego brancha z branchem swojego zespołu. W przypadku konfliktów, dodaj swój numer indeksu po przecinku
-8. Wykonane zadanie powinno zostac zacommitowane i wypushowane na remote. Wiadomości commitów powinny być skontruowane zgodnie z podanym schematem: `<Numer issue>: krótki opis wprowadzonych zmian w commitcie`
+7. Wykonane zadanie powinno zostac zacommitowane i wypushowane na remote. Wiadomości commitów powinny być skontruowane zgodnie z podanym schematem: `<Numer issue>: krótki opis wprowadzonych zmian w commitcie`
+8. Wykonaj rebase swojego brancha z branchem swojego zespołu. W przypadku konfliktów, dodaj swój numer indeksu po przecinku. Zrób commita i force pusha.
 9. Utwórz Pull Requesta
    1. Ustaw jego tytuł
    2. Dodaj komentarz opisujący co Twoje zmiany wprowadzają
