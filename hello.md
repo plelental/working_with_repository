@@ -2,3 +2,4 @@
 ## About me
 Hello, I'm student PJAIT on Gdansk. My magic number is:
 my nr 34250
+34252
